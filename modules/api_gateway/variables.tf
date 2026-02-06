@@ -5,3 +5,8 @@ variable "api_name" {
 variable "stage" {
   type = string
 }
+
+
+variable "auto_deploy" {
+  type = string
+}

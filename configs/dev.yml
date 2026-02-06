@@ -3,3 +3,4 @@ project_name: "serverless-boilerplate"
 
 api_gateway:
   name: "navitas"
+  auto_deploy: true
