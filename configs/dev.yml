@@ -1,0 +1,5 @@
+environment: "dev"
+project_name: "serverless-boilerplate"
+
+api_gateway:
+  name: "navitas"
