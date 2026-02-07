@@ -4,3 +4,7 @@ project_name: "serverless-boilerplate"
 api_gateway:
   name: "navitas"
   auto_deploy: true
+
+parameter_store:
+  name: "/navitas/dev/test"
+  type: "String"
